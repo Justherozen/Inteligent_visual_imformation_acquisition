@@ -1,0 +1,2 @@
+# Inteligent_visual_imformation_acquisition
+course of Inteligent_visual_imformation_acquisition
