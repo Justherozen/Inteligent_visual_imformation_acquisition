@@ -12,8 +12,6 @@
 
 <center style = "font-size: 2em">Table of Contents</center>
 
-
-
 [TOC]
 
 # Purpose
